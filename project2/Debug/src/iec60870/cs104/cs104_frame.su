@@ -1,0 +1,9 @@
+cs104_frame.c:102:1:T104Frame_create	16	static
+cs104_frame.c:132:1:T104Frame_destroy	24	static
+cs104_frame.c:144:1:T104Frame_resetFrame	24	static
+cs104_frame.c:152:1:T104Frame_prepareToSend	32	static
+cs104_frame.c:166:1:T104Frame_setNextByte	24	static
+cs104_frame.c:174:1:T104Frame_appendBytes	40	static
+cs104_frame.c:189:1:T104Frame_getMsgSize	24	static
+cs104_frame.c:197:1:T104Frame_getBuffer	24	static
+cs104_frame.c:205:1:T104Frame_getSpaceLeft	24	static

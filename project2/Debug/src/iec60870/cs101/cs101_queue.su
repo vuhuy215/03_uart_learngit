@@ -1,0 +1,9 @@
+cs101_queue.c:40:1:CS101_Queue_initialize	16	static
+cs101_queue.c:69:1:CS101_Queue_dispose	16	static
+cs101_queue.c:81:1:CS101_Queue_lock	16	static
+cs101_queue.c:89:1:CS101_Queue_unlock	16	static
+cs101_queue.c:97:1:CS101_Queue_enqueue	32	static
+cs101_queue.c:156:1:CS101_Queue_dequeue	24	static
+cs101_queue.c:178:1:CS101_Queue_isFull	16	static
+cs101_queue.c:184:1:CS101_Queue_isEmpty	16	static
+cs101_queue.c:191:1:CS101_Queue_flush	16	static

@@ -1,0 +1,6 @@
+rtc.c:7:13:RTC_GetTime_GetDate	64	static
+rtc.c:22:13:RTC_Init	8	static
+rtc.c:38:14:RTC_CalendarConfig	32	static
+rtc.c:61:14:RTC_ReConfig	64	static
+rtc.c:101:14:getDayofweek	56	static
+rtc.c:108:13:HAL_RTC_MspInit	88	static

@@ -1,0 +1,7 @@
+frame.c:31:1:Frame_destroy	16	static
+frame.c:37:1:Frame_resetFrame	16	static
+frame.c:43:1:Frame_setNextByte	16	static
+frame.c:49:1:Frame_appendBytes	24	static
+frame.c:55:1:Frame_getMsgSize	16	static
+frame.c:61:1:Frame_getBuffer	16	static
+frame.c:68:1:Frame_getSpaceLeft	16	static

@@ -1,0 +1,3 @@
+uart.c:8:6:USART1_Init	4	static
+uart.c:40:9:USART1_write	16	static
+uart.c:50:9:USART1_read	4	static

@@ -1,0 +1,12 @@
+cs101_bcr.c:36:1:BinaryCounterReading_create	24	static
+cs101_bcr.c:54:1:BinaryCounterReading_destroy	16	static
+cs101_bcr.c:60:1:BinaryCounterReading_getValue	32	static
+cs101_bcr.c:83:1:BinaryCounterReading_setValue	24	static
+cs101_bcr.c:104:1:BinaryCounterReading_getSequenceNumber	16	static
+cs101_bcr.c:110:1:BinaryCounterReading_setSequenceNumber	24	static
+cs101_bcr.c:119:1:BinaryCounterReading_hasCarry	16	static
+cs101_bcr.c:125:1:BinaryCounterReading_setCarry	16	static
+cs101_bcr.c:134:1:BinaryCounterReading_isAdjusted	16	static
+cs101_bcr.c:140:1:BinaryCounterReading_setAdjusted	16	static
+cs101_bcr.c:150:1:BinaryCounterReading_isInvalid	16	static
+cs101_bcr.c:156:1:BinaryCounterReading_setInvalid	16	static

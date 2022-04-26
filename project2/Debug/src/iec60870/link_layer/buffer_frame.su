@@ -1,0 +1,10 @@
+buffer_frame.c:39:1:BufferFrame_initialize	24	static
+buffer_frame.c:52:1:BufferFrame_destroy	24	static
+buffer_frame.c:60:1:BufferFrame_resetFrame	24	static
+buffer_frame.c:68:1:BufferFrame_setNextByte	24	static
+buffer_frame.c:76:1:BufferFrame_appendBytes	40	static
+buffer_frame.c:91:1:BufferFrame_getMsgSize	24	static
+buffer_frame.c:99:1:BufferFrame_getBuffer	24	static
+buffer_frame.c:107:1:BufferFrame_getSpaceLeft	24	static
+buffer_frame.c:115:1:BufferFrame_isUsed	16	static
+buffer_frame.c:121:1:BufferFrame_markAsUsed	16	static

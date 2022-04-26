@@ -1,0 +1,8 @@
+serial_transceiver_ft_1_2.c:41:1:SerialTransceiverFT12_create	24	static
+serial_transceiver_ft_1_2.c:57:1:SerialTransceiverFT12_destroy	16	static
+serial_transceiver_ft_1_2.c:64:1:SerialTransceiverFT12_setTimeouts	24	static
+serial_transceiver_ft_1_2.c:71:1:SerialTransceiverFT12_setRawMessageHandler	24	static
+serial_transceiver_ft_1_2.c:78:1:SerialTransceiverFT12_getBaudRate	16	static
+serial_transceiver_ft_1_2.c:84:1:SerialTransceiverFT12_sendMessage	32	static
+serial_transceiver_ft_1_2.c:93:1:readBytesWithTimeout	32	static
+serial_transceiver_ft_1_2.c:111:1:SerialTransceiverFT12_readNextMessage	56	static

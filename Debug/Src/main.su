@@ -1,0 +1,14 @@
+core_cm4.h:1777:22:__NVIC_ClearPendingIRQ	16	static
+core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+rcc.h:23:6:rcc_inc_ticks	4	static
+rcc.h:30:10:rcc_get_ticks	4	static
+rcc.h:40:6:rcc_ms_delay	24	static
+rcc.h:50:6:SysTick_Handler	8	static
+rcc.h:60:6:rcc_Systick_config	16	static
+uart.h:23:6:USART1_Init	4	static
+uart.h:56:6:uart_uart1_transmit	32	static
+uart.h:82:9:USART1_write	16	static
+uart.h:92:9:USART1_read	4	static
+adc.h:15:6:single_conversion_adc1_channel10_pin_C0	4	static
+main.c:10:5:main	8	static
+main.c:31:6:printmsg	96	static

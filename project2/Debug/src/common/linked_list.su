@@ -1,0 +1,12 @@
+linked_list.c:28:1:LinkedList_getLastElement	16	static
+linked_list.c:37:1:LinkedList_create	16	static
+linked_list.c:52:1:LinkedList_destroyDeep	24	static
+linked_list.c:70:1:LinkedList_destroy	16	static
+linked_list.c:79:1:LinkedList_destroyStatic	24	static
+linked_list.c:93:1:LinkedList_size	24	static
+linked_list.c:107:1:LinkedList_add	24	static
+linked_list.c:119:1:LinkedList_remove	24	static
+linked_list.c:140:1:LinkedList_insertAfter	24	static
+linked_list.c:155:1:LinkedList_getNext	16	static
+linked_list.c:161:1:LinkedList_get	24	static
+linked_list.c:180:1:LinkedList_getData	16	static

@@ -1,0 +1,16 @@
+main_slave_asduhandler.c:90:1:rawMessageHandler	32	static
+main_slave_asduhandler.c:109:1:clockSyncHandler	24	static
+main_slave_asduhandler.c:118:1:interrogationHandler	56	static
+main_slave_asduhandler.c:193:1:asduHandler	40	static
+main_slave_asduhandler.c:233:1:resetCUHandler	16	static
+main_slave_asduhandler.c:241:1:linkLayerStateChanged	24	static
+main_slave_asduhandler.c:261:13:asduHandler_huy	32	static
+main_slave_asduhandler.c:310:5:main	24	static
+main_slave_asduhandler.c:398:6:SystemClock_Config	88	static
+main_slave_asduhandler.c:442:13:MX_CRC_Init	8	static
+main_slave_asduhandler.c:468:13:MX_USART1_UART_Init	8	static
+main_slave_asduhandler.c:501:13:MX_USART2_UART_Init	8	static
+main_slave_asduhandler.c:534:13:MX_GPIO_Init	48	static
+main_slave_asduhandler.c:574:6:printmsg	96	static
+main_slave_asduhandler.c:588:6:HAL_GPIO_EXTI_Callback	16	static
+main_slave_asduhandler.c:621:6:Error_Handler	4	static,ignoring_inline_asm

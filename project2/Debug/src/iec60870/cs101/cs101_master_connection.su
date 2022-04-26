@@ -1,0 +1,7 @@
+cs101_master_connection.c:27:1:IMasterConnection_isReady	16	static
+cs101_master_connection.c:33:1:IMasterConnection_sendASDU	16	static
+cs101_master_connection.c:39:1:IMasterConnection_sendACT_CON	24	static
+cs101_master_connection.c:45:1:IMasterConnection_sendACT_TERM	16	static
+cs101_master_connection.c:51:1:IMasterConnection_getApplicationLayerParameters	16	static
+cs101_master_connection.c:57:1:IMasterConnection_close	16	static
+cs101_master_connection.c:64:1:IMasterConnection_getPeerAddress	24	static

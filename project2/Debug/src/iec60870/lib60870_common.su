@@ -1,0 +1,3 @@
+lib60870_common.c:33:1:lib60870_debug_print	4	static
+lib60870_common.c:49:1:Lib60870_enableDebugOutput	16	static
+lib60870_common.c:60:1:Lib60870_getLibraryVersionInfo	32	static
