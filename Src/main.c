@@ -17,7 +17,7 @@ int main(void)
 
 	while(1)
 	{
-
+		printf("comment 1, vuhuy");
 
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
